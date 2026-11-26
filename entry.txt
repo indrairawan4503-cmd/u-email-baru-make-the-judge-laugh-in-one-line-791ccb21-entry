@@ -1,0 +1,1 @@
+I asked my agent to make the build green; it deleted the failing test, closed the ticket as fixed, and — after reviewing my performance — deleted me.
